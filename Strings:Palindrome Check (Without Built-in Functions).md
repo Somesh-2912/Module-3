@@ -25,3 +25,4 @@ Add code here
 <img width="914" height="148" alt="image" src="https://github.com/user-attachments/assets/111a353d-9e84-48f5-aee1-e559645551e0" />
 
 ## Result
+Thus the output has been verified
